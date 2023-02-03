@@ -1,5 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is HP. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+Hello World! My name is Huy Pham. I am a Data Analyst Fresher, majoring in English Business Administration. I am interested in the following topics: Business Intelligence, Data Science and also Economicsc fields such as Stock and Crypto currency.<br>
+
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/huypham040100/)

@@ -10,5 +10,5 @@ My name is HP. I am an M.Sc. in Computer Science, majoring in Artificial Intelli
 
 <a href="https://github.com/MauricePham/Alien-Invasion">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=Alien-Invasion&theme=radical" />
 </a>    

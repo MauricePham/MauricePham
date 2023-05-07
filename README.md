@@ -13,3 +13,8 @@ Hello World! My name is Huy Pham. I am a Data Analyst Fresher, majoring in Engli
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=Alien-Invasion&theme=radical" />
 </a>    
+
+<a href="https://github.com/MauricePham/Data-Analysis---Cycle-Retail-Company">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=Data-Analysis---Cycle-Retail-Company&theme=onedark" />
+</a>    

@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hello World! My name is Huy Pham. I am a Data Analyst Fresher, majoring in English Business Administration. I am interested in the following topics: Business Intelligence, Data Science and also Economics fields such as Stock and Crypto currency.<br>
+Hello World! My name is Huy Pham. I am a Data Analyst Fresher, majored in English Business Administration. I am interested in the following topics: Business Intelligence, Data Science and also Economics fields such as Stock and Crypto currency.<br>
 
 ## 📫 How to reach me: 
 

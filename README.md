@@ -14,7 +14,6 @@ Hello World! My name is Huy Pham. I am a Data Analyst Fresher, majored in Englis
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=MoMo_Loyalty_Program&theme=dark" />
 </a>    
   
-
 <a href="https://github.com/MauricePham/Website-Traffic-Analysis-Report">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=SWebsite-Traffic-Analysis-Report&theme=gruvbox" />

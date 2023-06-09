@@ -17,7 +17,7 @@ Hello World! My name is Huy Pham. I am a Data Analyst Fresher, majored in Englis
   
   <a href="https://github.com/MauricePham/Sunrise_Insurance_Analytics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MauricePham&repo=Sunrise_Insurance_Analytics&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricePham&repo=Sunrise_Insurance_Analytics&theme=dracula" />
 </a>    
   
 <a href="https://github.com/MauricePham/Website-Traffic-Analysis-Report">

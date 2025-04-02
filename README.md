@@ -30,9 +30,9 @@ Hello World! My name is Huy Pham. I am a Data Analyst Fresher, majored in Englis
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=VinShop-Retail-Analysis&theme=highcontrast" />
 </a>    
 
-<a href="https://github.com/MauricePham/Alien-Invasion">
+<a href="https://github.com/MauricePham/Store-Analytics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=Alien-Invasion&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MauricePham&repo=Store-Analytics&theme=radical" />
 </a>    
 
 <a href="https://github.com/MauricePham/Data-Analysis---Cycle-Retail-Company">
